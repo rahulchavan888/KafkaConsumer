@@ -1,7 +1,7 @@
 # KafkaConsumer
 
 
-Spring boot web service as Kafka Consumer and ActiveMQ Producer to Consume the Log Stream for Kafka and send to ActiveMQ.
+Spring boot web service as Kafka Consumer and ActiveMQ Producer to Consume the Stream logs form Kafka and send to ActiveMQ.
 
 # dependencies
 
